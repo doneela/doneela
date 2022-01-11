@@ -1,6 +1,10 @@
 ### HOLA  👋 , I'm Doneela Das
 
-### About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doneela&label=Profile%20views&color=0e75b6&style=flat" alt="doneela" /> </p>
+
+
+### About Me 
+
 - 🔭 I’m currently studying in National Institute of Technology, Silchar
 - 🌱 I’m currently learning DSA and Node js.
 - 📫 How to reach me: doneeladas@gmail.com
@@ -14,9 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doneela&theme=radical" alt="doneela" />
 
 </p>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=doneela&label=Profile%20views&color=0e75b6&style=flat" alt="doneela" /> </p>
- -->
 
 <br/>
 <hr/>
