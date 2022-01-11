@@ -9,9 +9,9 @@
 
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=doneela&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" alt="doneela" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=doneela&theme=tokyonight&hide_border=true" alt="doneela" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doneela&show_icons=true&locale=en&layout=compact&title_color=FF00FF&icon_color=white&text_color=FF66FF&bg_color=000000" alt="doneela" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=doneela&theme=radical" alt="doneela" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=doneela&theme=radical" alt="doneela" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doneela&theme=radical" alt="doneela" />
 
 </p>
 
@@ -49,6 +49,6 @@
 ###  🏆 Github Profile Trophies
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=doneela&theme=monokai&row=1&column=8" alt="doneela" /></a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=doneela&theme=radical" alt="doneela" /></a> 
 </p>
 
