@@ -1,4 +1,11 @@
-### HOLA  👋 , I'm Doneela Das
+<!-- ### HOLA  👋 , I'm Doneela Das -->
+<!-- <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=de1084&size=30&width=750&height=80&lines=Hola+guys,+I'm+Doneela+Das."/></h2> -->
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=de1084&lines=Hola+guys,+I'm+Doneela+Das.;Welcome+to++my+GitHub+Profile!;Feel+free+to+Connect+with+me!;Thank+you!&font=Fira%20Code&&size=30center=true&width=750&height=80">
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doneela&label=Profile%20views&color=0e75b6&style=flat" alt="doneela" /> </p>
 
