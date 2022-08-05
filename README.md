@@ -22,7 +22,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=doneela&theme=radical" alt="doneela" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=doneela&theme=radical" alt="doneela" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=doneela&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=doneela&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)" alt="doneela" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phenyloder&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="doneela" />
 
 </p>
 
