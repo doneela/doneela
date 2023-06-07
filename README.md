@@ -13,7 +13,7 @@
 ### About Me 
 
 - 🔭 I’m currently studying in National Institute of Technology, Silchar
-- 🌱 I’m currently learning DSA and Node js.
+- 🌱 I’m currently learning java for developement.
 - 📫 How to reach me: doneeladas@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: J'aime la musique
