@@ -12,8 +12,8 @@
 
 ### About Me 
 
-- 🔭 I’m currently studying in National Institute of Technology, Silchar
-- 🌱 I’m currently learning java for developement.
+- 🔭 I’m currently studying at the National Institute of Technology, Silchar
+- 🌱 I'm exploring Machine learning these days and I enjoy collaborating with people on works of similar interest.
 - 📫 How to reach me: doneeladas@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: J'aime la musique
